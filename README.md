@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 🤖 Local RAG 知识库问答系统
+=======
+🤖 Local RAG 知识库问答系统
+>>>>>>> 97467270242068dbada14984a69cd2e91f65215a
 
 基于 **FAISS + Sentence-Transformers + Qwen2** 构建的**完全本地化** RAG（检索增强生成）知识库问答系统。
 
@@ -8,7 +12,7 @@
 
 ## 📸 效果截图
 
-![界面截图](screenshot.png)
+![界面截图](screenshot2.png)
 
 ## 🚀 功能特点
 
