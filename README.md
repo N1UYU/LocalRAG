@@ -1,4 +1,4 @@
-<img width="1580" height="1215" alt="image" src="https://github.com/user-attachments/assets/a458de4e-dce2-45d7-8c3e-cb626120c4ae" /># 🤖 Local RAG 知识库问答系统
+🤖 Local RAG 知识库问答系统
 
 基于 **FAISS + Sentence-Transformers + Qwen2** 构建的**完全本地化** RAG（检索增强生成）知识库问答系统。
 
