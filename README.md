@@ -1,8 +1,3 @@
-好的，以下是完整的 README.md 内容，你可以直接复制粘贴使用：
-
----
-
-```markdown
 # 🤖 Local RAG 知识库问答系统
 
 基于 **FAISS + Sentence-Transformers + Qwen2** 构建的**完全本地化** RAG（检索增强生成）知识库问答系统。
@@ -14,8 +9,6 @@
 ## 📸 效果截图
 
 ![界面截图](screenshot.png)
-
----
 
 ## 🚀 功能特点
 
