@@ -1,0 +1,35 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 大模型文件（1.6GB，不上传）
+models/*.gguf
+models/*.bin
+models/*.pth
+
+# 向量数据库（可重建，不上传）
+vector_db/
+
+# 日志文件
+logs/
+*.log
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE 配置
+.idea/
+.vscode/
+
+# 打包文件（如果之前打过 exe）
+build/
+dist/
+*.spec
+launcher.exe
+
+# 其他系统文件
+Thumbs.db
+.DS_Store
